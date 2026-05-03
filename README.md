@@ -9,7 +9,7 @@
 
 ## ¿Qué es el Patrón de Diseño Estado?
 
-El **Patrón de Diseño Estado** es un patrón de comportamiento que permite a un objeto **cambiar su comportamiento cuando cambia su estado interno**, como si el objeto cambiara de clase en tiempo de ejecución.
+Es un patrón de comportamiento que permite a un objeto **cambiar su comportamiento cuando cambia su estado interno**, como si el objeto cambiara de clase en tiempo de ejecución.
 
 En lugar de usar múltiples `if/else` o `switch` para controlar el comportamiento según el estado, cada estado se encapsula en su **propia clase**.
 
