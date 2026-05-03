@@ -32,4 +32,4 @@ Cada estado requiere su propio archivo y clase. En sistemas con muchos estados e
 
 ## Diagrama de Estados
 
-[![Patron-de-Diseno-Estado-(2).png](https://i.postimg.cc/1zJddzp7/Patron-de-Diseno-Estado-(2).png)](https://postimg.cc/HJ83cdvb)
+[![Patron-de-Diseno-Estado-(3).png](https://i.postimg.cc/mD95gyv1/Patron-de-Diseno-Estado-(3).png)](https://postimg.cc/Q9Xb61xj)
