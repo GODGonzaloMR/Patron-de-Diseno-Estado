@@ -33,3 +33,7 @@ Cada estado requiere su propio archivo y clase. En sistemas con muchos estados e
 ## Diagrama de Estados
 
 [![Patron-de-Diseno-Estado-(3).png](https://i.postimg.cc/mD95gyv1/Patron-de-Diseno-Estado-(3).png)](https://postimg.cc/Q9Xb61xj)
+
+## Programa ejecutado
+
+[![Captura-de-pantalla-2026-05-03-202051.png](https://i.postimg.cc/bJRM0r18/Captura-de-pantalla-2026-05-03-202051.png)](https://postimg.cc/WFhXT29f)
